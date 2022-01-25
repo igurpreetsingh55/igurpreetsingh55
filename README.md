@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Gurpreet Singh</h1>
 <h3 align="center">A passionate Web developer.</h3>
 
-- 🔭 I’m currently working on **fullstack web application.**
+- 💻 I’m currently working on **fullstack web application.**
 
 - 🌱 I’m currently learning **Reactjs**
 
