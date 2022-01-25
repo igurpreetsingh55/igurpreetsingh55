@@ -9,7 +9,7 @@
 
 - 📫 How to reach me **linkedin.com/in/igurpreetsingh**
 
-<h3 align="left">Connect with me:</h3>
+
 <p align="left">
 </p>
 
