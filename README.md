@@ -6,9 +6,9 @@
 - 🌱 I’m currently learning **Reactjs**
 
 - 💬 Ask me about **Javascript**
-
+<!---
 - 📫 How to reach me **linkedin.com/in/igurpreetsingh**
-
+--->
 
 <p align="left">
 </p>
