@@ -22,11 +22,6 @@
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=light)
 
 
-
-
-[![](https://visitcount.itsvg.in/api?id=igurpreetsingh55&icon=0&color=0)](https://visitcount.itsvg.in)
-
-
 <!---
 - 👋 Hi, I’m @igurpreetsingh55
 - 👀 I’m interested in ...
